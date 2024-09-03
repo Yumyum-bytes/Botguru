@@ -10,10 +10,10 @@ from keep_alive import keep_alive
 
 keep_alive()
 # insert your Telegram bot token here
-bot = telebot.TeleBot("7390264547:AAHxE2CAk-uhPlecG1ySwopVz6ZfX1Cryl0")
+bot = telebot.TeleBot("7303398671:AAFOlumPSaylRQOSXUrvXRbX03Nxp6mniAM")
 
 # Admin user IDs
-admin_id = ["937173294"]
+admin_id = ["6490673670"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
@@ -38,7 +38,7 @@ def handle_vayu(message):
 
 Please reply with the number of the command you want to execute (e.g., 1 for /check_server).""
 
-"Buy From :- @ServerHacker69"""
+"Buy From :- """
         bot.reply_to(message, response)
 
 # Command handler for handling command selection
