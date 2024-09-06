@@ -1,0 +1,158 @@
+UserID: 5064582868 | Time: 2024-09-04 06:22:59.395810 | Command: /bgmi | Target: 20.235.88.222 | Port: 11634 | Time: 120
+Username: @DELTA_013
+Target: 20.235.88.222
+Port: 11634
+Time: 120
+
+UserID: 6490673670 | Time: 2024-09-04 06:35:48.210442 | Command: /bgmi | Target: 20.193.139.228 | Port: 8700 | Time: 120
+Username: UserID: 6490673670
+Target: 20.193.139.228
+Port: 8700
+Time: 120
+
+UserID: 6490673670 | Time: 2024-09-04 06:42:58.394031 | Command: /bgmi | Target: 20.198.78.162 | Port: 16617 | Time: 120
+Username: UserID: 6490673670
+Target: 20.198.78.162
+Port: 16617
+Time: 120
+
+UserID: 6490673670 | Time: 2024-09-04 06:46:32.785363 | Command: /bgmi | Target: 20.198.78.162 | Port: 16617 | Time: 120
+Username: UserID: 6490673670
+Target: 20.198.78.162
+Port: 16617
+Time: 120
+
+UserID: 6490673670 | Time: 2024-09-04 08:16:56.173435 | Command: /bgmi | Target: 20.235.92.124 | Port: 14244 | Time: 300
+Username: UserID: 6490673670
+Target: 20.235.92.124
+Port: 14244
+Time: 300
+
+UserID: 5064582868 | Time: 2024-09-04 09:17:58.251518 | Command: /bgmi | Target: 20.235.147.49 | Port: 12960 | Time: 400
+Username: @DELTA_013
+Target: 20.235.147.49
+Port: 12960
+Time: 400
+
+UserID: 6490673670 | Time: 2024-09-04 11:01:52.034484 | Command: /bgmi | Target: 20.235.95.133 | Port: 25080 | Time: 300
+Username: UserID: 6490673670
+Target: 20.235.95.133
+Port: 25080
+Time: 300
+
+UserID: 6490673670 | Time: 2024-09-04 11:07:24.405144 | Command: /bgmi | Target: 20.235.95.133 | Port: 25080 | Time: 300
+UserID: 6490673670 | Time: 2024-09-04 11:34:08.516219 | Command: /bgmi | Target: 20.219.164.214 | Port: 22813 | Time: 300
+Username: UserID: 6490673670
+Target: 20.219.164.214
+Port: 22813
+Time: 300
+
+UserID: 5064582868 | Time: 2024-09-04 16:39:41.687210 | Command: /bgmi | Target: 20.204.148.51 | Port: 14286 | Time: 500
+Username: @DELTA_013
+Target: 20.204.148.51
+Port: 14286
+Time: 500
+
+UserID: 5064582868 | Time: 2024-09-04 16:57:08.085582 | Command: /bgmi | Target: 4.213.68.40 | Port: 18647 | Time: 500
+Username: @DELTA_013
+Target: 4.213.68.40
+Port: 18647
+Time: 500
+
+UserID: 5064582868 | Time: 2024-09-04 17:10:46.662900 | Command: /bgmi | Target: 20.204.189.124 | Port: 10049 | Time: 400
+UserID: 5064582868 | Time: 2024-09-04 17:10:59.843726 | Command: /bgmi | Target: 20.204.189.124 | Port: 10049 | Time: 400
+Username: @DELTA_013
+Target: 20.204.189.124
+Port: 10049
+Time: 400
+
+UserID: 5064582868 | Time: 2024-09-04 17:25:02.378781 | Command: /bgmi | Target: 52.172.3.190 | Port: 10915 | Time: 450
+Username: @DELTA_013
+Target: 52.172.3.190
+Port: 10915
+Time: 450
+
+UserID: 5064582868 | Time: 2024-09-04 17:25:25.633260 | Command: /bgmi | Target: 52.172.3.190 | Port: 10915 | Time: 450
+Username: @DELTA_013
+Target: 52.172.3.190
+Port: 10915
+Time: 450
+
+UserID: 5064582868 | Time: 2024-09-04 17:34:47.530096 | Command: /bgmi | Target: 52.172.3.190 | Port: 10915 | Time: 450
+Username: @DELTA_013
+Target: 52.172.3.190
+Port: 10915
+Time: 450
+
+UserID: 5064582868 | Time: 2024-09-04 17:36:18.986033 | Command: /bgmi | Target: 52.172.3.190 | Port: 10915 | Time: 200
+Username: @DELTA_013
+Target: 52.172.3.190
+Port: 10915
+Time: 200
+
+UserID: 5064582868 | Time: 2024-09-04 17:47:37.330550 | Command: /bgmi | Target: 4.213.68.39 | Port: 27714 | Time: 500
+Username: @DELTA_013
+Target: 4.213.68.39
+Port: 27714
+Time: 500
+
+UserID: 5064582868 | Time: 2024-09-04 18:05:22.449511 | Command: /bgmi | Target: 20.235.93.18 | Port: 29998 | Time: 500
+Username: @DELTA_013
+Target: 20.235.93.18
+Port: 29998
+Time: 500
+
+UserID: 5064582868 | Time: 2024-09-04 18:06:06.217019 | Command: /bgmi | Target: 20.235.93.18 | Port: 29998 | Time: 500
+Username: @DELTA_013
+Target: 20.235.93.18
+Port: 29998
+Time: 500
+
+UserID: 5064582868 | Time: 2024-09-04 18:21:52.014437 | Command: /bgmi | Target: 20.204.180.120 | Port: 25518 | Time: 599
+Username: @DELTA_013
+Target: 20.204.180.120
+Port: 25518
+Time: 599
+
+UserID: 5064582868 | Time: 2024-09-04 18:22:26.793159 | Command: /bgmi | Target: 20.204.180.120 | Port: 25518 | Time: 5
+Username: @DELTA_013
+Target: 20.204.180.120
+Port: 25518
+Time: 5
+
+UserID: 5064582868 | Time: 2024-09-04 18:22:42.043046 | Command: /bgmi | Target: 20.204.180.120 | Port: 25518 | Time: 599
+Username: @DELTA_013
+Target: 20.204.180.120
+Port: 25518
+Time: 599
+
+UserID: 5064582868 | Time: 2024-09-04 18:44:13.842512 | Command: /bgmi | Target: 4.213.64.189 | Port: 10024 | Time: 400
+Username: @DELTA_013
+Target: 4.213.64.189
+Port: 10024
+Time: 400
+
+UserID: 5064582868 | Time: 2024-09-04 19:00:50.024102 | Command: /bgmi | Target: 20.198.75.141 | Port: 11578 | Time: 450
+Username: @DELTA_013
+Target: 20.198.75.141
+Port: 11578
+Time: 450
+
+UserID: 5064582868 | Time: 2024-09-04 19:01:16.084537 | Command: /bgmi | Target: 20.198.75.141 | Port: 11578 | Time: 450
+Username: @DELTA_013
+Target: 20.198.75.141
+Port: 11578
+Time: 450
+
+UserID: 5064582868 | Time: 2024-09-04 19:08:22.591572 | Command: /bgmi | Target: 20.198.75.141 | Port: 11678 | Time: 450
+Username: @DELTA_013
+Target: 20.198.75.141
+Port: 11678
+Time: 450
+
+UserID: 5064582868 | Time: 2024-09-04 19:09:19.183506 | Command: /bgmi | Target: 20.198.75.141 | Port: 11678 | Time: 450
+Username: @DELTA_013
+Target: 20.198.75.141
+Port: 11678
+Time: 450
+
